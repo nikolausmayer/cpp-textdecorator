@@ -2,7 +2,7 @@
 TextDecorator
 =============
 
-`TextDecorator` is a tiny, header-only C++ tool making it trivially easy to print colored text, <b>bold<b> text, <b>colored bold</b> text... the possibilities are endless!
+`TextDecorator` is a tiny, header-only C++ tool making it trivially easy to print colored text, <b>bold</b> text, <b>colored bold</b> text... the possibilities are endless!
 
 
 Usage example
